@@ -6,7 +6,7 @@
 
     <name>TAWT Morphological Dictionary</name>
     <artifactId>morphological-dictionary</artifactId>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
     <version>${version.tawt.morphological-dictionary}</version>
 
     <parent>
